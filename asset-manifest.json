@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-app/static/css/main.daba4b55.css",
+    "main.js": "/react-portfolio-app/static/js/main.dce58566.js",
+    "index.html": "/react-portfolio-app/index.html",
+    "main.daba4b55.css.map": "/react-portfolio-app/static/css/main.daba4b55.css.map",
+    "main.dce58566.js.map": "/react-portfolio-app/static/js/main.dce58566.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daba4b55.css",
+    "static/js/main.dce58566.js"
+  ]
+}
