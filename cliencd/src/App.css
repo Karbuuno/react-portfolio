@@ -1,0 +1,41 @@
+.nav_link {
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 25px;
+  letter-spacing: 0.5px;
+}
+
+.left_container p {
+  color: #666;
+  letter-spacing: 1px;
+  font-size: 20px;
+  margin-top: 2px;
+}
+.about_container {
+  height: 85vh;
+}
+.main_container .right_container img {
+  width: 430px;
+  height: 500px;
+}
+@media (max-width: 449px) {
+  .main_container .right_container img {
+    max-width: 300px;
+    height: 400px;
+  }
+}
+.footer {
+  width: 100%;
+  color: #ffff;
+  min-height: 100px;
+  position: relative;
+
+  bottom: 0;
+  background-color: #21262c;
+}
+
+.footer .first,
+.second,
+.third {
+  width: 300px;
+}
