@@ -1,4 +1,5 @@
 import React from "react";
+import profilePicture from "../assets/images/karbuno.png";
 
 function About() {
   return (
@@ -26,7 +27,7 @@ function About() {
           </p>
         </div>
         <div className='right_container mt-3'>
-          <img src='./images/karbuno.jpg' alt='Gesey' />
+          <img src={profilePicture} alt='Gesey' />
         </div>
       </div>
     </div>
