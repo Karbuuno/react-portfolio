@@ -26,7 +26,7 @@ function About() {
           </p>
         </div>
         <div className='right_container mt-3'>
-          <img src='/images/karbuno.jpg' alt='Gesey' />
+          <img src='./images/karbuno.jpg' alt='Gesey' />
         </div>
       </div>
     </div>
