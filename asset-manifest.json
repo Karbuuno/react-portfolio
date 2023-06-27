@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-portfolio-app/static/css/main.daba4b55.css",
-    "main.js": "/react-portfolio-app/static/js/main.addd79d6.js",
+    "main.js": "/react-portfolio-app/static/js/main.b83f640a.js",
     "static/media/karbuno.jpg": "/react-portfolio-app/static/media/karbuno.9f6512bf4faa1d69e5f1.jpg",
     "index.html": "/react-portfolio-app/index.html",
     "main.daba4b55.css.map": "/react-portfolio-app/static/css/main.daba4b55.css.map",
-    "main.addd79d6.js.map": "/react-portfolio-app/static/js/main.addd79d6.js.map"
+    "main.b83f640a.js.map": "/react-portfolio-app/static/js/main.b83f640a.js.map"
   },
   "entrypoints": [
     "static/css/main.daba4b55.css",
-    "static/js/main.addd79d6.js"
+    "static/js/main.b83f640a.js"
   ]
 }
