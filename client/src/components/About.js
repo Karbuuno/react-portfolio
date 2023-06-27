@@ -1,5 +1,5 @@
 import React from "react";
-import profilePicture from "../assets/images/karbuno.png";
+import profilePicture from "../assets/images/karbuno.jpg";
 
 function About() {
   return (
