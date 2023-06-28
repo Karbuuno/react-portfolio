@@ -8,7 +8,7 @@
 .left_container p {
   color: #666;
   letter-spacing: 1px;
-  font-size: 20px;
+  font-size: 18px;
   margin-top: 2px;
 }
 .about_container {
@@ -27,7 +27,8 @@
 .footer {
   width: 100%;
   color: #ffff;
-  min-height: 100px;
+  min-height: 80px;
+  padding-top: 10px;
   position: relative;
 
   bottom: 0;
