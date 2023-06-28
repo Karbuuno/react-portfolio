@@ -18,8 +18,8 @@ function App() {
     <>
       <Header />
       <Routes>
-        <Route path='/react-portfolio-app' element={<About />} />
         <Route path='/' element={<About />} />
+        {/* <Route path='/react-portfolio-app' element={<About />} /> */}
         <Route path='/contact' element={<Contact />} />
         <Route path='/projects' element={<Projects />} />
         <Route path='*' element={<NotFound />} />
