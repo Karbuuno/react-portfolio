@@ -20,7 +20,7 @@ function Projects() {
                     <Card.Img
                       variant='top'
                       style={{ width: "22rem", marginLeft: -13 }}
-                      src={`../assets/${project.Image}`}
+                      src={project.Image}
                     />
                     <Card.Body className='d-flex justify-content-center flex-column'>
                       <Card.Title className='text-center'>

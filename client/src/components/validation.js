@@ -1,6 +1,6 @@
 export default function validation(values) {
   const errors = {};
-  const emailRegExp = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/;
+  const emailRegExp = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i;
   if (values.fname === "") {
     errors.fname = "first name is required";
     console.log(errors.fname);

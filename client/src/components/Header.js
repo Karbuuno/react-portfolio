@@ -11,7 +11,7 @@ function Header() {
         <div className='container'>
           <div>
             <h2 className=' mt-2' style={{ color: "#6c63ff" }}>
-              <NavLink href='#About' className='nav_link'>
+              <NavLink href='/' className='nav_link'>
                 ABDISHKUR GESEY
               </NavLink>
             </h2>
