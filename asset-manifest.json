@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio-app/static/css/main.daba4b55.css",
-    "main.js": "/react-portfolio-app/static/js/main.b83f640a.js",
+    "main.css": "/react-portfolio-app/static/css/main.af2b8e3d.css",
+    "main.js": "/react-portfolio-app/static/js/main.8e09973b.js",
+    "static/media/My-little-web-shop.png": "/react-portfolio-app/static/media/My-little-web-shop.cb6df920519e1ceb15dc.png",
+    "static/media/restaurant-finder.png": "/react-portfolio-app/static/media/restaurant-finder.93aebc839a4235d501c4.png",
+    "static/media/tech-blog-app.png": "/react-portfolio-app/static/media/tech-blog-app.6caf2bb59e3b3d4378e6.png",
+    "static/media/weather-app.png": "/react-portfolio-app/static/media/weather-app.977caa60dacd9d7ab037.png",
     "static/media/karbuno.jpg": "/react-portfolio-app/static/media/karbuno.9f6512bf4faa1d69e5f1.jpg",
+    "static/media/note-taker-app.png": "/react-portfolio-app/static/media/note-taker-app.3191070458e055bcbd74.png",
+    "static/media/quiz-app.png": "/react-portfolio-app/static/media/quiz-app.065afc6c5a030f3f96c3.png",
     "index.html": "/react-portfolio-app/index.html",
-    "main.daba4b55.css.map": "/react-portfolio-app/static/css/main.daba4b55.css.map",
-    "main.b83f640a.js.map": "/react-portfolio-app/static/js/main.b83f640a.js.map"
+    "main.af2b8e3d.css.map": "/react-portfolio-app/static/css/main.af2b8e3d.css.map",
+    "main.8e09973b.js.map": "/react-portfolio-app/static/js/main.8e09973b.js.map"
   },
   "entrypoints": [
-    "static/css/main.daba4b55.css",
-    "static/js/main.b83f640a.js"
+    "static/css/main.af2b8e3d.css",
+    "static/js/main.8e09973b.js"
   ]
 }
