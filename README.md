@@ -12,6 +12,6 @@ A portfolio of work can showcase your skills and talents to employers looking to
 
 ## Screenshots
 
-![alt image-1](/screenshots/image-1.png)
-![alt image-1](/screenshots/image-2.png)
-![alt image-1](/screenshots/image-3.png)
+![alt image-1](./public/Screenshots/image-1.png)
+![alt image-1](./public/Screenshots/image-2.png)
+![alt image-1](./public/Screenshots/image-3.png)
