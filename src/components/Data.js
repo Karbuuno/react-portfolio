@@ -1,9 +1,9 @@
-import litleWeb from "../assets/images/My-little-web-shop.png";
-import restaurant from "../assets/images/restaurant-finder.png";
-import weather from "../assets/images/weather-app.png";
-import notetaker from "../assets/images/note-taker-app.png";
-import techblog from "../assets/images/tech-blog-app.png";
-import quiz from "../assets/images/quiz-app.png";
+import litleWeb from "./assets/images/My-little-web-shop.png";
+import restaurant from "./assets/images/restaurant-finder.png";
+import weather from "./assets/images/weather-app.png";
+import notetaker from "./assets/images/note-taker-app.png";
+import techblog from "./assets/images/tech-blog-app.png";
+import quiz from "./assets/images/quiz-app.png";
 
 const data = [
   {
